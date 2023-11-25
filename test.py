@@ -4,7 +4,7 @@ drone_cascade = cv2.CascadeClassifier('myharr.xml')
 cap = cv2.VideoCapture(0)
 def detect() :
 
-    print("!!!!!ALERT!!!!")
+    print("!!!!!ALERTT!!!!")
     print("DRONE FOUNDED")
 
 def dr1():
